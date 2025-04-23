@@ -19,7 +19,7 @@ global.Gname = process.env.GNAME ||"Asta-Md-sᴜᴘᴘᴏʀᴛ",
 global.zyt = process.env.ZYT || '1',
 global.waUrl = process.env.WAURL ||"",
 global.website = '' ; 
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || '' ;
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || '𝙰𝚂𝙸𝚃𝙷𝙰-𝙼𝙳=32pQlDLS#EM2MbhJvScMPazpSfBf3MAlkrFxUzwuv-5rKwhdhFq' ;
 module.exports = {
   sessionName: process.env.SESSION_ID || '',
   botname: process.env.BOT_NAME || 'Asta-Md',
